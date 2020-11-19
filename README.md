@@ -1,3 +1,1 @@
-# familiar-with-the-console
-
-Lecture for Hyper Island students
+Practise debugging in the console. 
